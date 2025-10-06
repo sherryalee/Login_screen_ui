@@ -1,16 +1,27 @@
-# lgoin_ui
+🪄 Flutter Login Screen UI
 
-A new Flutter project.
+A clean and simple **Login Screen** built using **Flutter**.  
+This UI is fully responsive and easy to customize.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+🚀 Features
+- Clean and modern login design  
+- Text fields for email & password  
+- Login button with hover animation  
+- Works on Android, iOS, and Web  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧩 Tech Stack
+- **Flutter** (Dart)
+- **Material Design**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+📸 Screenshot
+
+<img width="373" height="418" alt="flutter_ui" src="https://github.com/user-attachments/assets/5321f5d9-beee-4977-8686-238d82720589" />
+
+
+## 🔧 How to Run
+1. Clone this repository:
+      bash
+   git clone https://github.com/sherryalee/Login_screen_ui.git
